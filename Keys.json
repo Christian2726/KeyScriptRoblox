@@ -9,6 +9,11 @@
       "key": "PHHL-IG23-Y5PD-F3GM",
       "expiry": "2025-10-19T11:59:42.082457Z",
       "bound_to": "admin"
+    },
+    {
+      "key": "DQY7-EBVZ-PO80-S906",
+      "expiry": "2025-10-17T12:01:11.283656Z",
+      "bound_to": "admin"
     }
   ]
 }
