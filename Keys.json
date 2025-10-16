@@ -4,6 +4,11 @@
       "key": "FREE",
       "expiry": "2025-10-16T13:32:31.614536Z",
       "bound_to": "admin"
+    },
+    {
+      "key": "5VR1-YI3Y-26TP-PK1H",
+      "expiry": "2025-10-19T12:47:16.837359Z",
+      "bound_to": "admin"
     }
   ]
 }
