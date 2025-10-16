@@ -4,6 +4,11 @@
       "key": "NWGA-LIKN-H0NL-1EQD",
       "expiry": "2025-10-16T16:49:46.622742Z",
       "bound_to": "5593967825"
+    },
+    {
+      "key": "YY12-7GZT-BCBO-LL6L",
+      "expiry": "2025-10-19T11:58:13.280244Z",
+      "bound_to": "admin"
     }
   ]
 }
