@@ -19,6 +19,11 @@
       "key": "ZHLF-JFEI-8MWA-JZFD",
       "expiry": "2025-10-16T13:16:27.418948Z",
       "bound_to": "admin"
+    },
+    {
+      "key": "IS73-1HYI-N2UA-TLHK",
+      "expiry": "2025-10-19T12:24:36.110399Z",
+      "bound_to": "admin"
     }
   ]
 }
