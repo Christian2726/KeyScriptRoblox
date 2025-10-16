@@ -1,21 +1,6 @@
 {
   "keys": [
     {
-      "key": "JF0M-D95R-1SHO-RWVZ",
-      "expiry": "2025-10-19T12:57:25.883652Z",
-      "bound_to": "admin"
-    },
-    {
-      "key": "BVLS-O4K4-2FSP-4I4D",
-      "expiry": "2025-10-19T18:48:46.743952Z",
-      "bound_to": "admin"
-    },
-    {
-      "key": "VHWC-BIIY-IZED-YED9",
-      "expiry": "2025-10-16T23:56:50.241755Z",
-      "bound_to": "5593967825"
-    },
-    {
       "key": "TCZU-O31H-X726-9V6K",
       "expiry": "2025-10-16T20:26:06.472985Z",
       "bound_to": "admin"
