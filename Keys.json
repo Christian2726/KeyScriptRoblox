@@ -1,29 +1,3 @@
 {
-  "keys": [
-    {
-      "key": "NWGA-LIKN-H0NL-1EQD",
-      "expiry": "2025-10-16T16:49:46.622742Z",
-      "bound_to": "5593967825"
-    },
-    {
-      "key": "PHHL-IG23-Y5PD-F3GM",
-      "expiry": "2025-10-19T11:59:42.082457Z",
-      "bound_to": "admin"
-    },
-    {
-      "key": "DQY7-EBVZ-PO80-S906",
-      "expiry": "2025-10-17T12:01:11.283656Z",
-      "bound_to": "admin"
-    },
-    {
-      "key": "ZHLF-JFEI-8MWA-JZFD",
-      "expiry": "2025-10-16T13:16:27.418948Z",
-      "bound_to": "admin"
-    },
-    {
-      "key": "V2TE-X4YI-YS1N-M0TH",
-      "expiry": "2025-10-19T12:25:22.135565Z",
-      "bound_to": "admin"
-    }
-  ]
+  "keys": []
 }
