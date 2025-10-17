@@ -29,6 +29,11 @@
       "key": "9XA4-X3SQ-NCA3-0MFI",
       "expiry": "2025-10-17T06:51:56.906053Z",
       "bound_to": "8306610774"
+    },
+    {
+      "key": "C4NU-NPMX-IUXB-HZYF",
+      "expiry": "2025-10-20T02:45:22.130180Z",
+      "bound_to": "admin"
     }
   ]
 }
