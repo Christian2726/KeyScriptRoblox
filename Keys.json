@@ -199,6 +199,11 @@
       "key": "RFFF-UFBX-KQRW-JER7",
       "expiry": "2025-10-24T13:33:16.228389Z",
       "bound_to": "7439955333"
+    },
+    {
+      "key": "BOFW-EDET-WWOS-VQRY",
+      "expiry": "2025-10-24T15:22:45.386307Z",
+      "bound_to": "7225733040"
     }
   ]
 }
